@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\bin\Debug\net7.0\VetorTipoClasse.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\bin\Debug\net7.0\VetorTipoClasse.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\bin\Debug\net7.0\VetorTipoClasse.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\bin\Debug\net7.0\VetorTipoClasse.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\bin\Debug\net7.0\VetorTipoClasse.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\refint\VetorTipoClasse.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\VetorTipoClasse.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\VetorTipoClasse\obj\Debug\net7.0\ref\VetorTipoClasse.dll
